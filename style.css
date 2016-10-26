@@ -1,5 +1,9 @@
 .content {
-	background-color: #ccc;
 	text-align: center;
-	margin-top: 120px;
+	margin-top: 160px;
+}
+
+.search {
+	padding: 8px;
+	width: 25%;
 }
